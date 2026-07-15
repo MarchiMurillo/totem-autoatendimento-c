@@ -1,6 +1,6 @@
-#include <stdio.h>   /* Ativa funções de entrada/saída (printf, fgets, stdin) */
-#include <stdlib.h>  /* Ativa conversores de dados cruciais (strtol, strtof) */
-#include <string.h>  /* Ativa manipuladores de texto/string (strcspn) */
+#include <stdio.h>   
+#include <stdlib.h>
+#include <string.h>
 
 void quantidade (char destino [30], float preco, float *quant, float *total) {
 
